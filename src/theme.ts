@@ -5,6 +5,7 @@ export default extendTheme({
     global: {
       body: {
         color: "blackAlpha.900",
+        backgroundColor: "#EDEDED",
       },
     },
   },
@@ -82,16 +83,16 @@ export default extendTheme({
         focusBorderColor: "secondary.500",
       },
       variants: {
-        filled: {
-          field: {
-            borderRadius: "sm",
-            color: "blackAlpha.800",
-            backgroundColor: "white",
-            ":hover, :focus": {
-              backgroundColor: "white",
-            },
-          },
-        },
+        // filled: {
+        //   field: {
+        //     borderRadius: "sm",
+        //     color: "blackAlpha.800",
+        //     backgroundColor: "white",
+        //     ":hover, :focus": {
+        //       backgroundColor: "white",
+        //     },
+        //   },
+        // },
         outline: {
           field: {
             borderColor: "gray.300",

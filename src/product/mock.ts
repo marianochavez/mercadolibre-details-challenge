@@ -66,6 +66,26 @@ export default {
       descriptions: [
         {
           id: "MLA741093357-1768858232",
+          text: `PELUCHE IMPORTADO PERSONAJE STITCH
+
+          MEDIDA 1 METRO (100 CM )
+
+          GIGANTE!!!
+
+          DISPONIBLE: STITCH (CELESTE) O ANGEL (ROSA)
+
+          MATERIAL: PLUSH MUY SUAVE, RELLENO DE VELLON SILICONADO
+
+          SE PUEDE RETIRAR POR:
+          • AV. CORRIENTES Y URUGUAY (SUBTE B) - LOCAL
+          • AV CORRIENTES Y CARLOS PELLEGRINI (SUBTE B) - LOCAL
+          • AV CORRIENTES Y LEANDRO N. ALEM (SUBTE B) - LOCAL
+          • VILLA PUEYRREDON (domicilio particular)
+          • VILLA BALLESTER (domicilio particular)
+
+          Realizamos envíos por motomensajeria y tambien por correo argentino a todo el país
+
+          ****NO SE OLVIDE DE VISITAR TODOS NUESTROS PRODUCTOS****`,
         },
       ],
       accepts_mercadopago: true,
