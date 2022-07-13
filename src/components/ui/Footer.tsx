@@ -19,19 +19,21 @@ export const Footer: FC = () => {
           <AccordionItem border={0}>
             <Container maxWidth={200}>
               <AccordionButton
-                _expanded={{bg: "gray.200", color: "gray.700"}}
+                _expanded={{bg: "whiteAlpha.600", color: "gray.700"}}
                 _focus={{border: "none"}}
+                _hover={{bg: ""}}
                 background="white"
+                borderRadius="5px 5px 0px 0px"
                 color="gray.500"
                 justifyContent="center"
               >
                 <Stack direction="row">
-                  <Text fontSize="sm">Más información</Text>
+                  <Text fontSize="12px">Más información</Text>
                   <AccordionIcon />
                 </Stack>
               </AccordionButton>
             </Container>
-            <AccordionPanel background="gray.200" borderColor="gray.300" p={10}>
+            <AccordionPanel background="whiteAlpha.600" borderColor="gray.300" p={10}>
               <Container maxWidth="container.lg">
                 <Stack
                   color="gray.500"

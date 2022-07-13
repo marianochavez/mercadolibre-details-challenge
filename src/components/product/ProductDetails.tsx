@@ -1,6 +1,6 @@
 import {Box, Container, Divider, Icon, Link, Stack, Text} from "@chakra-ui/react";
-import React, {createContext, FC} from "react";
 import {TbMinusVertical} from "react-icons/tb";
+import React, {createContext, FC} from "react";
 
 import {Product} from "../../product/types";
 
